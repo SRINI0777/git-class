@@ -1,1 +1,2 @@
 today im learning git class
+and also learning linux
